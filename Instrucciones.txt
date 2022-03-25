@@ -12,5 +12,7 @@ Crear una nueva rama:
 git branch nombre_rama
 git checkout nombre_rama --> moverte a esa rama
 
+git checkout -b nombre_rama --> este es un atajo que hace las dos instrucciones anteriores
 
 git branch --> muestra las ramas de un repositorio
+
