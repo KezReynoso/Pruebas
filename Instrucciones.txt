@@ -1,0 +1,3 @@
+Instrucciones de Github:
+
+git init -> inicializa un repo vacío 
