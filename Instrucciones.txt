@@ -1,3 +1,5 @@
 Instrucciones de Github:
 
 git init -> inicializa un repo vacío 
+git add .
+git commit -m "first commit"
