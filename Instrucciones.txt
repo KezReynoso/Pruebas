@@ -6,3 +6,11 @@ git commit -m "first commit"
 git branch -M main --> si aún no se ha realizado ningún commit la rama main no existe
 git remote set-url https://github.com/Usuario_github/nombre_repositorio.git
 git push -u origin main
+
+
+Crear una nueva rama:
+git branch nombre_rama
+git checkout nombre_rama --> moverte a esa rama
+
+
+git branch --> muestra las ramas de un repositorio
